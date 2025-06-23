@@ -7,7 +7,7 @@ Landing page institucional da **Pizzaria Del Gatito**, feita com HTML e CSS, par
 
 🎯 **Fazer Pedido:**  
 👉 [https://pizzaria-del-gatito-faculdade.onrender.com](https://pizzaria-del-gatito-faculdade.onrender.com)
-
+Nota: A aplicação hospedada no Render pode desligar por inatividade, causando atraso na primeira resposta após algum tempo sem uso.
 ---
 
 ## 📌 Seções da Página
